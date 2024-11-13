@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Configuration
-PYTHON_SCRIPT="image_generator.py" # Change this to match your Python script name
+PYTHON_SCRIPT="/Users/jamesbest/dotfiles/shellscripts/image_generator/image_generator.py" # Change this to match your Python script name
 
 # Ensure gum is available
 if ! command -v gum &>/dev/null; then
